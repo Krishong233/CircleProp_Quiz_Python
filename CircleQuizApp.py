@@ -3,11 +3,6 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import random
 
-import tkinter as tk
-from tkinter import messagebox
-from PIL import Image, ImageTk
-import random
-
 class CircleQuizApp:
     def __init__(self, root):
         self.root = root
